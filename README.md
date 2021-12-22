@@ -1,2 +1,3 @@
 # codewars-java
-Codewars solutions written in Java
+
+Project to store coding challenges I've performed using the Java programing language.
